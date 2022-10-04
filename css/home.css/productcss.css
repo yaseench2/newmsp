@@ -13,7 +13,7 @@ body{
     font-weight: 500;
 }
 .img1{
-    height: 400px;
+    height: 500px;
 }
 .img2{
     margin-top: 200px;
@@ -116,6 +116,7 @@ body{
     }
     .par5{
         font-size: 16px;
+        margin-left: -18px;
     }
 }
 .cnt3{
