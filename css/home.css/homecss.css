@@ -26,7 +26,7 @@ body{
         height: 300px;
     }
     .txt1{
-        font-size: 11px;
+        font-size: 12px;
     }
     .logo2{
         height: 150px;
@@ -54,7 +54,7 @@ body{
         font-size: 22px;
     }
     .txt2{
-        font-size: 13px;
+        font-size: 15px;
         text-align: center;
         line-height: 18px;
         font-weight: 400;
@@ -64,10 +64,6 @@ body{
     }
     .view1{
         display: none;
-    }
-    .btnclr{
-        height: 30px;
-        font-size: 11px;
     }
 }
 .img3{
