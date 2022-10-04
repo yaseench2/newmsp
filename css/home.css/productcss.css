@@ -31,7 +31,7 @@ body{
     color:#1B3551;
     font-size: 28px;
     font-weight: 500;
-    margin-left: 60px;
+    
 }
 @media only screen and (max-width: 576px) {
     .img1{
@@ -103,8 +103,7 @@ body{
     }
 }
 .img9{
-    margin-left: 60px;
-    height: 32px;
+        height: 32px;
 }
 .par5{
     margin-top: 4px;
@@ -114,9 +113,11 @@ body{
 @media only screen and (max-width: 576px) {
     .img9{
         height: 20px;
-        margin-left: 20px;
     }
     .par5{
         font-size: 16px;
     }
+}
+.cnt3{
+    padding-left: 6%;
 }
